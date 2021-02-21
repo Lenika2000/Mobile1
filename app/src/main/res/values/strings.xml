@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="SignUpOrIn">войти или
+        зарегистрироваться</string>
+    <string name="sendMsg">Мы отправим на номер SMS-сообщение с
+        кодом подтверждения</string>
+    <string name="getCode">ПОЛУЧИТЬ КОД</string>
+    <string name="agreement">При входе вы соглашаетесь с условиями</string>
+    <string name="settings">Настройки</string>
+    <string name="push">PUSH-Уведомления</string>
+    <string name="selectCity">Определять город автоматически</string>
+    <string name="enter">Вход по отпечатку пальца</string>
+    <string name="resetAuth">Сбросить авторизацию</string>
+    <string name="version">Версия приложения 4.41.2</string>
+    <string name="profile">Профиль</string>
+    <string name="email">Email</string>
+    <string name="setEmail">Укажите email</string>
+    <string name="passwordField">Ваш пароль для контакт-центра</string>
+    <string name="password">D9EF56</string>
+    <string name="bonusInfo">Бонусы к анулированию в феврале (на
+        <br/>основании расчетов от 25.01.2021):      0
+        <br/>Если вы произвели списания в феврале,
+        <br/>количество бонусов к анулированию
+        <br/>уменьшится на количество списанных
+        <br/>бонусов</string>
+    <string name="feedback">Обратная связь</string>
+    <string name="personName">Ваше имя</string>
+    <string name="phoneNumber">Номер телефона</string>
+    <string name="emailAddress">Ваш e-mail адрес</string>
+    <string name="comment">Комментарий</string>
+    <string name="processingAgreement">Я даю согласие на обработку своих
+        <br/>персональных данных. С политикой обеспечения
+        <br/>безопасности персональных данных САО
+        <br/>"РЕСО-гарантия" ознакомлен.
+    </string>
+    <string-array name="topic">
+        <item>Тема обращения</item>
+        <item>Мурзик</item>
+        <item>Васька</item>
+        <item>Рыжик</item>
+    </string-array>
+
+
+</resources>
